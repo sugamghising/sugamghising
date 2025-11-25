@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **building a full stack application.**
 
-- 👯 I’m looking to collaborate on **open source**
+- 👯 I’m looking to collaborate on **open source projects.**
 
-- 👨‍💻 All of my projects are available at [sugamghising.me](sugamghising.me)
+- 👨‍💻 All of my projects are available at [sugamghising](sugamghising.me)
 
 - 📫 How to reach me **ghisingsugam04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sugam ghising" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugam ghising" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sugamghising" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugam ghising" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
