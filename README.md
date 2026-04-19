@@ -1,39 +1,85 @@
+<h1 align="center">Sugam Ghising</h1>
 
-
-<h1 align="center">Hi 👋, I'm Sugam Ghising</h1>
-<h3 align="center">A passionate web developer from Nepal</h3>
-
-- 🔭 I’m currently working on **building a full stack application.**
-
-- 👯 I’m looking to collaborate on **open source projects.**
-
-- 👨‍💻 All of my projects are available at [sugamghising](sugamghising.me)
-
-- 📫 How to reach me **ghisingsugam04@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sugamghising" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sugam ghising" height="30" width="40" /></a>
+<p align="center">
+Backend-focused Developer from Nepal building production-grade APIs and full-stack applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://sugamghising.com.np">Portfolio</a> |
+  <a href="https://github.com/sugamghising">GitHub</a> |
+  <a href="https://www.linkedin.com/in/sugamghising">LinkedIn</a> |
+  <a href="mailto:ghisingsugam04@gmail.com">Email</a>
+</p>
 
+## About Me
 
+- Backend Developer Intern at Geek Tech Solutions (Dec 2025 - Present)
+- Focused on Node.js, Express, TypeScript, PostgreSQL, and scalable REST API design
+- Experience delivering production features in Agile teams with strong code review practices
+- Open to Backend Developer or Full Stack Junior Developer opportunities
 
+## Current Focus
 
+- Building and deploying backend services with clean architecture and reliable performance
+- Improving API performance and database query efficiency
+- Expanding microservices and real-time system design skills
 
-<!--
-**sugamghising/sugamghising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+### Languages and Runtime
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend and API
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-1E4A8B?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### Frontend and Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Databases and Realtime
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### DevOps and Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## Featured Projects
+
+### Hotel Management System API
+Production-ready REST API for hotel operations including reservations, rooms, rate plans, POS, inventory, housekeeping, maintenance, and reporting.
+
+**Stack:** Node.js, Express, TypeScript, PostgreSQL, Prisma, Zod, JWT, Docker, Redis, Swagger/OpenAPI  
+**Repo:** https://github.com/sugamghising
+
+### Real Time Leaderboard
+Real-time leaderboard with WebSockets and Redis, secure JWT authentication with refresh tokens, role-based access control, and social features.
+
+**Stack:** React, Node.js, Express, PostgreSQL, Redis, Socket.io  
+**Repo:** https://github.com/sugamghising/Real-time-Leaderboard  
+**Live:** https://real-time-leaderboard-psi.vercel.app
+
+### Movie Booking System
+Full-stack booking platform with secure authentication, showtime scheduling, seat selection with double-booking prevention, Stripe payments, and admin analytics.
+
+**Stack:** React, Node.js, Express, PostgreSQL, Stripe  
+**Repo:** https://github.com/sugamghising/MovieReservationSystem  
+**Live:** https://movie-reservation-system-gray.vercel.app/
+
+## Connect
+
+- Email: ghisingsugam04@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sugamghising
+- Portfolio: https://sugamghising.com.np
