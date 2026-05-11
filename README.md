@@ -20,7 +20,7 @@
 
 ## 💼 About Me
 
-- 🔭 Backend Developer Intern at Geek Tech Solutions (Dec 2025 - Present)
+- 🔭 Backend Developer Intern at Geek Tech Solutions (Dec 2025 - May 2026)
 - 🧠 Focused on Node.js, Express, TypeScript, PostgreSQL, and scalable REST API design
 - ⚙️ Experienced delivering production features in Agile teams with strong code review practices
 - 🤝 Open to Backend Developer or Full Stack Junior Developer opportunities
