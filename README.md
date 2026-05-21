@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Sugam Ghising</h1>
 
-<h3 align="center">🚀 Backend-focused Developer from Nepal</h3>
+<h3 align="center">🚀 Fullstack software Developer from Nepal</h3>
 
 <p align="center">
   Building production-grade APIs, real-time systems, and full-stack applications.
